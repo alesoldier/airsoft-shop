@@ -58,6 +58,11 @@ button{
 
 }
 
+button:hover{
+    color: black;
+    background-color: azure;
+}
+
 button#btn-s{
     margin-left: 17%;
     
